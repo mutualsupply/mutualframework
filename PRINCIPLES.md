@@ -1,6 +1,8 @@
 # Mutual Design Principles
 This is a living document that reflects our collective mindset towards designing blockchain enabled applications. If you're interested in contributing to this document, please visit our [contribution guidelines](./CONTRIBUTING.md) in the adjacent markdown file.
 
+Hello Mutual contributors!
+
 ## Educate the user through active guidance
 1. Keep language accessible & reduce technical jargon, explain complicated (scary) on-chain interactions, implement help patterns + utilize glossaries.
 2. Anticipate a user’s knowledge path while using a platform. Progressively increase their exposure to blockchain patterns, or segment experiences into different levels of understanding.
