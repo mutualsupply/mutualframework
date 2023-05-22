@@ -14,10 +14,6 @@ This is a living document that reflects our collective mindset towards designing
 - Explain gas fees
 - Explain immutability of the user’s decisions
             
-*Therefore, if a user, especially a non technical one, can’t recognize by looking at the UI if a Dapp is actually a Dapp or a normal web app, nor can she verify if the contents she is seeing, or her interactions with it are actually related to a Blockchain, then she isn’t granted the trustlessness and transparency that the Blockchain is supposed to deliver.*
-            
-To a non technical user, who is not able to verify the data by herself in an easy way, the information is clearly not transparent. Transparency then becomes a shimmering mirage, a faithful expectation of trust.
-            
 ## Visual consistency
 1. We have the opportunity to establish fundamental design interactions for a new era of the internet. Similar to the impact of swiping, pinch to zoom, etc. 
 2. Testing patterns and then utilizing proven ones consistently throughout web3 platforms will help achieve mass understanding and lower the learning curve for new users.
