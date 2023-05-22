@@ -1,5 +1,5 @@
 # Mutual Design Principles
-This is a living document that reflects our collective mindset towards designing blockchain enabled applications. If you're interested in contributing to this document, please visit our contribution guidelines in the adjacent markdown file.
+This is a living document that reflects our collective mindset towards designing blockchain enabled applications. If you're interested in contributing to this document, please visit our [contribution guidelines](./CONTRIBUTING.md) in the adjacent markdown file.
 
 ## Educate the user through active guidance
 1. Keep language accessible & reduce technical jargon, explain complicated (scary) on-chain interactions, implement help patterns + utilize glossaries.
